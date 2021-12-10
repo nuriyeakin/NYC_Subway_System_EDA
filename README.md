@@ -17,9 +17,11 @@ The objectives of EDA are to:
 * Support the selection of appropriate statistical tools and techniques
 * Provide a basis for further data collection through surveys or experiments
 
+Data Science Process flowchart:
+
 ![Alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Data_visualization_process_v1.png/350px-Data_visualization_process_v1.png "img1")
 
-Data Science Process flowchart
+
 
 
 Goals:
