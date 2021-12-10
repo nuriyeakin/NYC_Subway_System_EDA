@@ -61,3 +61,9 @@ EXITS: The cumulative exit register value for a device
 
 RESULTS:
 
+![Alt text](https://github.com/nuriyeakin/NYC_Subway_System_EDA/blob/main/Top5Station.png?raw=true "img2")
+
+![Alt text](https://github.com/nuriyeakin/NYC_Subway_System_EDA/blob/main/Top5Stationby_Day.png?raw=true "img3")
+
+![Alt text](https://github.com/nuriyeakin/NYC_Subway_System_EDA/blob/main/Top5_Heatmap.png?raw=true "img4")
+
